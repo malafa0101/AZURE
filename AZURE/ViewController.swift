@@ -15,6 +15,6 @@ class ViewController: UIViewController {
       
     }
     var gagag = 1414
-
+    var s = "Eldor lox"
 }
 
