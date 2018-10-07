@@ -16,5 +16,9 @@ class ViewController: UIViewController {
     }
     var gagag = 1414
     var s = "Eldor lox"
+    var fafa = 123131312
+    func ELDORR(){
+        print("afafafsa")
+    }
 }
 
