@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
       
     }
-
+    var gagag = 1414
 
 }
 
