@@ -17,5 +17,6 @@ class ViewController: UIViewController {
     var gagag = 1414
     var s = "Eldor lox"
   var a = "sdhbcdsjnckldnsc.kndscndfsavlkdnvndfsjnv/dfsnkls"
+    var sfasf = "afsafafsafkg;ksjgkslkfgjlksfjglksdfjglksdfjglkjsdflg"
 }
 
